@@ -34,3 +34,4 @@ Hello, GitHub
 # Ссылка на более подробную инструкцию 
 https://blog.skillfactory.ru/glossary/markdown/
 
+Добавили информацию для PUll
